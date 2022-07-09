@@ -1,6 +1,6 @@
 package tecnico.Lista;
 
-public class Soma1a15_1 {
+public class Soma1A15_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,11 +8,13 @@ public class Soma1a15_1 {
 		i = 1;
 		soma = 0;
 		
-		while (i<=15){
+		
+		do {
 			soma = soma + i;
 			i = i + 1;
+		} while (i<=15);
+			
 			System.out.println("A soma dos números de 1 a 15 é: "+soma);
-		}
-	}
-
+	}	
 }
+
