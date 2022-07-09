@@ -1,4 +1,4 @@
-package tecnico;
+package tecnico.Lista;
 
 import java.util.Scanner;
 

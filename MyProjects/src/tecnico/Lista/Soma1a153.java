@@ -1,4 +1,4 @@
-package tecnico;
+package tecnico.Lista;
 
 public class Soma1a153 {
 

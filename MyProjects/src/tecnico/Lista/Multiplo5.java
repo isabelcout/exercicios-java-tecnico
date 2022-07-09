@@ -1,8 +1,8 @@
-package tecnico;
+package tecnico.Lista;
 
 import java.util.Scanner;
 
-public class PositivoNegativo {
+public class Multiplo5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,10 +13,10 @@ public class PositivoNegativo {
 		System.out.println("Digite um número: ");
 		x = input.nextInt();
 		
-		if (x>0)
-			System.out.println("O número é positivo!");
+		if (x%5==0)
+			System.out.println("O número é multiplo!");
 		else 
-			System.out.println("O número é negativo!");
+			System.out.println("O número não é multiplo!");
 	}
 
 }
