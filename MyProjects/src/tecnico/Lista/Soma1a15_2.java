@@ -1,6 +1,6 @@
 package tecnico.Lista;
 
-public class Soma1a152 {
+public class Soma1a15_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
