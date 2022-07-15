@@ -1,6 +1,6 @@
 package tecnico.Lista;
 import java.util.Scanner;
-public class SOMA {
+public class Soma {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
