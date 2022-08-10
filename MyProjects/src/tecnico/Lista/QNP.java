@@ -3,7 +3,7 @@ package tecnico.Lista;
 import java.util.Scanner;
 
 public class QNP {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int i, numero, quantidade;
 		quantidade = 0;
